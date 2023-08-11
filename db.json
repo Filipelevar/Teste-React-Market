@@ -1,0 +1,198 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Hambúrguer",
+      "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
+      "image":"https://speedy.uenicdn.com/ffd3745d-af5c-49bc-975e-4f5e1c2bc5b0/c470_a/image/upload/v1616473574/business/74412a32-557c-424b-9a43-2dfd3c8a01ab.jpg",
+      "preco": 8.50,
+      "categoria_id": 1
+    },
+    {
+      "id": 2,
+      "nome": "X-Búrguer",
+      "descricao": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
+      "image":"https://speedy.uenicdn.com/ffd3745d-af5c-49bc-975e-4f5e1c2bc5b0/c470_a/image/upload/v1616473574/business/74412a32-557c-424b-9a43-2dfd3c8a01ab.jpg",
+      "preco":  10.50,
+      "categoria_id": 1
+    },
+    {
+      "id": 3,
+      "nome": "X-Bacon",
+      "descricao": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, 2 fatia de bacon, salada e batata.",
+      "image":"https://www.sabornamesa.com.br/media/k2/items/cache/5098e75e57e36807c173cb7490b1b0d2_XL.jpg",
+      "preco": 12.50,
+      "categoria_id": 1
+    },
+    {
+      "id": 4,
+      "nome": "X-Tudo",
+      "descricao": "Pão, 2 bifes de hambúrguer 90g, 2 fatias de queijo, 4 fatias de bacon, salada e batata.",
+      "image":"https://www.manollopizzaria.com.br/wp-content/uploads/2021/02/X_TUDO_DE_HAMBURGUER1-1.jpg",
+      "preco": 14.50,
+      "categoria_id": 1
+    },
+    {
+      "nome": "X-Búrguer de frango",
+      "descricao": "Pão, bife de hambúrguer 90g de frango, salada e batata.",
+      "image":"https://www.receitasedicasdochef.com.br/wp-content/uploads/2015/07/Como-fazer-Delicioso-Hamburguer-de-Frango-Light.jpg",
+      "preco": 8.50,
+      "categoria_id": 1,
+      "id": 5
+    },
+    {
+      "nome": "X-3",
+      "descricao": "Pão, bife de hambúrguer 90g, milho, presunto e queijo.",
+      "image":"https://s2.glbimg.com/QOfWq1k0w9g3OrLwM5zzYL5xNAo=/620x455/e.glbimg.com/og/ed/f/original/2021/06/18/receita-hamburguer-presunto-parma-gruyere.jpg",
+      "preco": 10.00,
+      "categoria_id": 1,
+      "id": 6
+    },
+    {
+      "nome": "X-Salada",
+      "descricao": "Pão, bife de hambúrguer 90g, alface, tomate, queijo e batata palha.",
+      "image":"https://img.cybercook.com.br/receitas/151/x-salada-3.jpeg",
+      "preco": 12.00,
+      "categoria_id": 1,
+      "id": 7
+    },
+    {
+      "nome": "X-Especial com Bacon",
+      "descricao": "Pão, bife de hambúrguer 90g, bacon, presunto, alface, tomate, queijo e batata palha.",
+      "image":"https://sachefmio.blob.core.windows.net/fotos/x-salada-bacon-243857.jpg",
+      "preco": 16.00,
+      "categoria_id": 1,
+      "id": 8
+    },
+    {
+      "nome": "X-Gourmet",
+      "descricao": "Pão, hambúrguer gourmet 180g, bacon,alface, tomate e queijo.",
+      "image":"https://seara.com.br/wp-content/uploads/2022/12/hambnabrasa1200480-1.jpg",
+      "preco": 22.00,
+      "categoria_id": 1,
+      "id": 9
+    },
+      {
+        "id": 10,
+        "nome": "Hot Dog Clássico",
+        "descricao": "Pão de hot dog, salsicha, molho de tomate, mostarda, ketchup, cebola e batata palha.",
+        "image":"https://static.itdg.com.br/images/1200-675/ac539e127fc4784c8606502714f3de96/357545-original.jpg",
+        "preco": 6.50,
+        "categoria_id": 1
+      },
+      {
+        "id": 11,
+        "nome": "Hot Dog Especial",
+        "descricao": "Pão de hot dog, salsicha, molho de tomate, maionese, milho, ervilha, cebola crocante e batata palha.",
+        "image":"https://www.sabornamesa.com.br/media/k2/items/cache/d91d2793afc1e2281971343ae9f4138f_L.jpg",
+        "preco": 8.50,
+        "categoria_id": 1
+      },
+      {
+        "id": 12,
+        "nome": "Hot Dog com Bacon",
+        "descricao": "Pão de hot dog, salsicha, bacon, molho de tomate, maionese, cebola e batata palha.",
+        "image":"https://receitinhas.com.br/wp-content/uploads/2022/11/Cachorro-quente-com-queijo-e-bacon-Receiteria-1-1200x738.jpg",
+        "preco": 9.50,
+        "categoria_id": 1
+      },
+      {
+        "id": 13,
+        "nome": "Açaí Tradicional",
+        "descricao": "Açaí puro, sem adição de ingredientes, servido com granola e banana.",
+        "image":"https://s2.glbimg.com/quwqrYKCCKel3KB_cJnZvIqxE0c=/620x455/e.glbimg.com/og/ed/f/original/2019/06/11/acai.jpg",
+        "preco": 10.00,
+        "categoria_id": 1
+      },
+      {
+        "id": 14,
+        "nome": "Açaí com Frutas",
+        "descricao": "Açaí com pedaços de morango, banana e kiwi, servido com granola.",
+        "image":"https://www.shoppingbalneario.com.br/wp-content/uploads/2020/01/acai.jpg",
+        "preco": 12.00,
+        "categoria_id": 1
+      },
+      {
+        "id": 15,
+        "nome": "Açaí Especial",
+        "descricao": "Açaí com leite condensado, chocolate granulado, morangos e banana, servido com granola.",
+        "image":"https://img.freepik.com/fotos-premium/acai-brasileiro-congelado-em-copo-plastico-com-leite-condensado-banana-e-morango-fruta-da-amazonia_261158-1712.jpg",
+        "preco": 15.00,
+        "categoria_id": 1
+      },
+      {
+        "id": 16,
+        "nome": "Coca cola 350ml",
+        "image":"https://www.imigrantesbebidas.com.br/img/bebida/images/products/full/1984-refrigerante-coca-cola-lata-350ml.jpg?s=ef1f9ccf20330fe8f998c65372625c77",
+        "descricao": "",
+        "preco": 5.50,
+        "categoria_id": 2
+      },
+      {
+        "id": 17,
+        "nome": "Coca cola 600ml",
+        "image":"https://loja.supermerclick.com.br/image/cache/catalog/produtos-integracao/004322-omie___coca-cola-600ml__conv-1000x1000.jpg",
+        "descricao": "",
+        "preco": 7.50,
+        "categoria_id": 2
+      },
+      {
+        "id": 18,
+        "nome": "Guarana 350ml",
+        "image":"https://d2r9epyceweg5n.cloudfront.net/stores/001/043/122/products/guarana-350-ml1-36b27837866444073815698470135434-640-0.png",
+        "descricao": "",
+        "preco": 4.50,
+        "categoria_id": 2
+      },
+      {
+        "id": 19,
+        "nome": "Guarana 600ml",
+        "image":"https://www.clubeextra.com.br/img/uploads/1/796/12293796.jpeg",
+        "descricao": "",
+        "preco": 6.5,
+        "categoria_id": 2
+      },
+      {
+        "id": 20,
+        "nome": "Água de Coco 300ml",
+        "image":"https://cdn.awsli.com.br/837/837493/produto/175677771/4e3c0fed5e.jpg",
+        "descricao": "",
+        "preco": 3.50,
+        "categoria_id": 2
+      },
+      {
+        "id": 21,
+        "nome": "Chá Gelado de Frutas",
+        "image":"https://uploads.consultaremedios.com.br/product_variation_images/full/3f38959efca94cd19d48df980517334939459c1f.jpg?1670604334",
+        "descricao": "",
+        "preco": 4.00,
+        "categoria_id": 2
+      },
+      {
+        "id": 22,
+        "nome": "Água Mineral 500ml",
+        "image":"https://www.imigrantesbebidas.com.br/bebida/images/products/full/2893-agua-mineral-crystal-sem-gas-500ml.jpg",
+        "descricao": "",
+        "preco": 2.00,
+        "categoria_id": 2
+      },
+      {
+        "id": 23,
+        "nome": "Suco de Laranja 300ml",
+        "image":"https://naturalone.vteximg.com.br/arquivos/ids/157649-1000-1000/SUCO_DE_LARANJA_INTEGRAL_300ML_AMBIENTE_-_NATURAL_ONE-01.jpg?v=638210537258230000",
+        "descricao": "",
+        "preco": 4.00,
+        "categoria_id": 2
+      }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Hambúrgueres"
+    },
+    {
+      "id": 2,
+      "nome": "Refrigerantes"
+    }
+  ]
+}

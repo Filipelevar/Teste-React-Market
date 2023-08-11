@@ -1,0 +1,24 @@
+.header {
+    background-color: rgb(0, 105, 79);
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+  }
+  
+  .header > div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+    
+  }
+  .image-logo {
+    width: 50px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    border: 1px solid #ccc; 
+  }
+  
